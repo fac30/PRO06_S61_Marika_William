@@ -1,0 +1,52 @@
+/*
+Theme Name: Twenty Twenty-Five Child
+Template: twentytwentyfive
+Version: 1.0
+Description: A child theme for the Twenty Twenty-Five theme.
+Author: Marika
+*/
+
+
+
+body {
+    background-color: #F3F3F3;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* .wp-block-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px; 
+    background-color: #F3F3F3; 
+}
+
+
+.wp-block-navigation a {
+    margin: 0 10px; 
+}
+
+
+.wp-block-navigation a:hover {
+    text-decoration: underline;
+}
+
+
+.site-logo img {
+    height: 40px; 
+}
+
+
+.wp-block-group.banner {
+    width: 100vw;
+    margin-left: calc(-1 * (100vw - 100%));
+    background-size: cover; 
+    background-position: center; 
+} */
+
+.project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
