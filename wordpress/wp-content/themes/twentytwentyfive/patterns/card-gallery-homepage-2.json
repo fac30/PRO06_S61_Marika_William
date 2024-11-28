@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "card gallery homepage 2",
+  "content": "<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|50\",\"bottom\":\"var:preset|spacing|50\",\"left\":\"var:preset|spacing|40\",\"right\":\"var:preset|spacing|40\"},\"margin\":{\"top\":\"0\",\"bottom\":\"0\"},\"blockGap\":\"var:preset|spacing|50\"},\"dimensions\":{\"minHeight\":\"0px\"},\"border\":{\"width\":\"0px\",\"style\":\"none\"}},\"layout\":{\"type\":\"flex\",\"flexWrap\":\"nowrap\",\"justifyContent\":\"center\"}} -->\n<div class=\"wp-block-group\" style=\"border-style:none;border-width:0px;min-height:0px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)\"><!-- wp:block {\"ref\":211} /-->\n\n<!-- wp:block {\"ref\":211} /--></div>\n<!-- /wp:group -->",
+  "syncStatus": ""
+}

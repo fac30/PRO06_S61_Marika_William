@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "title gallery link",
+  "content": "<!-- wp:group {\"layout\":{\"type\":\"flex\",\"flexWrap\":\"nowrap\"}} -->\n<div class=\"wp-block-group\"><!-- wp:heading {\"style\":{\"spacing\":{\"margin\":{\"right\":\"var:preset|spacing|50\",\"left\":\"var:preset|spacing|50\"}}},\"fontSize\":\"x-large\"} -->\n<h2 class=\"wp-block-heading has-x-large-font-size\" style=\"margin-right:var(--wp--preset--spacing--50);margin-left:var(--wp--preset--spacing--50)\">Projects   &gt;</h2>\n<!-- /wp:heading --></div>\n<!-- /wp:group -->",
+  "syncStatus": ""
+}
