@@ -13,6 +13,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.wp-block-group {
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
 /* .wp-block-group {
     display: flex;
